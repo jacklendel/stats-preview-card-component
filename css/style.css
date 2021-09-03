@@ -1,0 +1,35 @@
+@import url('https://fonts.google.com/specimen/Inter');
+@import url('https://fonts.google.com/specimen/Lexend+Deca');
+
+
+* {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px; text-align: center;
+}
+
+body {
+    color: #fff;
+    background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+    width: 327px;
+    height: auto;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 15px;
+    margin: 50px auto;
+}
+header {
+    width: 100%;
+    height: 240px;
+    background-color: hsl(277, 64%, 61%);
+    border-radius: 15px 15px 0 0;
+
+}
+
+header img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px 15px 0 0;
+    opacity: 0.7;
+}
